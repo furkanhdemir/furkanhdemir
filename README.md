@@ -15,6 +15,6 @@ Merhaba ben Furkan Hayati Demir. Trakya Üniversitesi Bilişim Sistemleri ve Tek
 
 ## My GitHub Profile
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=furkanhdemir&show_icons=true&theme=merko&count_private=true" /> </p>
-
+<p align="center"> <img src ="https://github-readme-stats.vercel.app/api?username=furkanhdemir&show_icons=true&theme=transparent" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanhdemir&layout=compact" />
 
