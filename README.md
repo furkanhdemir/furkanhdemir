@@ -1,4 +1,9 @@
-## Hi there 👋
+## Furkan Hayati Demir
+
+Merhaba ben Furkan Hayati Demir. Trakya Üniversitesi Bilişim Sistemleri ve Teknolojileri bölümü mezunuyum. Javascript ile ilgileniyorum. Front-End geliştiricisiyim. 2024'den beri React ile projeler geliştiriyorum. 
+
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+
 
 <!--
 **furkanhdemir/furkanhdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
