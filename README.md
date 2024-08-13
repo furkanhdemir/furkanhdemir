@@ -15,3 +15,6 @@ Merhaba ben Furkan Hayati Demir. Trakya Üniversitesi Bilişim Sistemleri ve Tek
 
 ## My GitHub Profile
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanhdemir&show_icons=true&bg_color=00000000)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanhdemir&layout=compact" />
+
