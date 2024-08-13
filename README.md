@@ -2,7 +2,9 @@
 
 Merhaba ben Furkan Hayati Demir. Trakya Üniversitesi Bilişim Sistemleri ve Teknolojileri bölümü mezunuyum. Javascript ile ilgileniyorum. Front-End geliştiricisiyim. 2024'den beri React ile projeler geliştiriyorum. 
 
-
+[![View Badge](https://komarev.com/ghpvc/?username=Alertis&color=green)]() 
+[![GitHub followers](https://img.shields.io/github/followers/Alertis.svg?style=social&label=Follow)](https://github.com/Alertis?tab=followers)
+[![Twitter](https://img.shields.io/twitter/follow/AlertisDev?label=Twitter&style=social)](https://twitter.com/AlertisDev)
 
 <!--
 **furkanhdemir/furkanhdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
