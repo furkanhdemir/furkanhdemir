@@ -12,3 +12,9 @@ Merhaba ben Furkan Hayati Demir. Trakya Üniversitesi Bilişim Sistemleri ve Tek
 ## Links
 [![LinkedIn Badge](https://img.shields.io/badge/FurkanHayatiDemir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-demir-a22844194/)
 [![Gmail Badge](https://img.shields.io/badge/furkanhd22@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:furkanhd22@gmail.com)
+
+## My GitHub Profile
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alertis&show_icons=true&theme=merko&count_private=true" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alertis&layout=compact" />
+</p
