@@ -7,4 +7,4 @@ Merhaba ben Furkan Hayati Demir. Trakya Üniversitesi Bilişim Sistemleri ve Tek
 
 ## Interests
 
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" /><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="50"><img src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" width="200">
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" /><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
