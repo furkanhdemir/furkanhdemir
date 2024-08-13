@@ -14,7 +14,7 @@ Merhaba ben Furkan Hayati Demir. Trakya Üniversitesi Bilişim Sistemleri ve Tek
 [![Gmail Badge](https://img.shields.io/badge/furkanhd22@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:furkanhd22@gmail.com)
 
 ## My GitHub Profile
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanhdemir&show_icons=true&bg_color=00000000)
+<p align="center">(https://github-readme-stats.vercel.app/api?username=furkanhdemir&show_icons=true&bg_color=00000000)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanhdemir&layout=compact" />
 
